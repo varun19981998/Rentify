@@ -72,15 +72,9 @@ In this project we have made the foolowing things :
   
 ## Team Members : 
 
-- Pranay Khadse - fw20_0117
-  
-- Vinayak Hiwase - fp05_229
-
-- Rohini Kushwaha - fw17_0925
-
-- Arjun Yadav - fw18_0903
-
-- Tarun Kumar Sao - fw20_1259
+-Varun Pratap Singh
+-Aman pratap Singh
+-Arjun Saxena
 
 
 
