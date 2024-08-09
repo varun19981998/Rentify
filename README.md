@@ -1,5 +1,4 @@
 # RentoMojo Clone (named as Rentify.com)
-Got a collaborative project to clone rentomojo website. We have completed this project within 4 days.
 Rentomojo is an online rental platform that provides furniture, appliances and electronics on a monthly rental basis.
 
 In this project we have made the foolowing things :
